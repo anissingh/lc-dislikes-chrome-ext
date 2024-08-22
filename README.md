@@ -1,0 +1,1 @@
+# lc-dislikes-chrome-ext
