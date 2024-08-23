@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode Dislike Counter Visibility",
+  "description": "Allows the user to see the dislikes for a leetcode problem.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/index.html"
+  }
+}
